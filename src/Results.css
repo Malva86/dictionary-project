@@ -1,0 +1,15 @@
+.Results {
+  text-align: left;
+  margin-left: 25px;
+  margin-top: 25px;
+}
+
+.Results h2 {
+  font-size: 42px;
+  margin-bottom: 25px;
+}
+
+.Results .Meaning {
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
