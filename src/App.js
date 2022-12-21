@@ -9,9 +9,22 @@ function App() {
         <footer>
           <p>
             Code created by Maliwina Flis. It is open-sourced at{" "}
-            <a href="https://github.com/Malva86/dictionary-project">GitHub</a>{" "}
+            <a
+              href="https://github.com/Malva86/dictionary-project"
+              target="_blank"
+              rel="noreferrer"
+            >
+              GitHub
+            </a>{" "}
             and hosted at{" "}
-            <a href="https://fluffy-parfait-f22f58.netlify.app/">Netlify</a>.
+            <a
+              href="https://fluffy-parfait-f22f58.netlify.app/"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Netlify
+            </a>
+            .
           </p>
         </footer>
       </div>
