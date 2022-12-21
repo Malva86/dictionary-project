@@ -1,3 +1,7 @@
+body {
+  background: rgb(255, 255, 255);
+}
+
 .App {
   text-align: center;
   padding-top: 50px;
@@ -6,8 +10,32 @@
 
 footer {
   padding-top: 10px;
+  color: rgb(0, 0, 0);
 }
 
 a:link {
   text-decoration: none;
+}
+
+.Dictionary section {
+  margin-top: 25px;
+  margin-bottom: 25px;
+  border: solid 1px rgb(228, 228, 228);
+  border-radius: 5px;
+  padding: 25px;
+  background-color: rgb(228, 228, 228);
+  font-size: 24px;
+  box-shadow: 5px 8px 15px rgba(0, 0, 0, 0.7);
+}
+
+.Dictionary input {
+  width: 100%;
+  border: 1px solid blue;
+  border-radius: 5px;
+  padding: 6px 8px;
+}
+
+h1 {
+  font-size: 48px;
+  color: rgb(0, 0, 0);
 }

@@ -2,18 +2,21 @@
   text-align: left;
   margin-left: 25px;
   margin-top: 25px;
+  margin-right: 25px;
 }
 
 .Results h2 {
-  font-size: 42px;
+  font-size: 64px;
   margin-bottom: 25px;
+  color: rgb(0, 0, 0);
 }
 
 .Results .Meaning {
   margin-top: 25px;
   margin-bottom: 25px;
-  border: solid 1px black;
+  border: solid 1px rgb(224, 224, 224);
   border-radius: 5px;
   padding: 15px;
   background-color: rgb(224, 224, 224);
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.6);
 }
