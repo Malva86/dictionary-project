@@ -18,6 +18,6 @@ export default function Results(props) {
       </div>
     );
   } else {
-    return "Searching...";
+    return null;
   }
 }
