@@ -1,1 +1,10 @@
+.Meaning .definition {
+  padding-bottom: 4px;
+  padding-top: 10px;
+  opacity: 0.8;
+}
 
+.Synonyms {
+  font-size: 12px;
+  padding-top: 3px;
+}
